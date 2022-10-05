@@ -36,5 +36,5 @@ No Softwares Were Pre - Installed In Sparkout OS.
 
 # Images | Sparkout_OS-Ultra-Lite-Edition
 
-![image](https://github.com/Sparkout-OS/Sparkout_OS-Extended-Professional-Edition/blob/main/2.png)
+![image](https://github.com/Sparkout-OS/Sparkout_OS-Ultra-Lite-Edition/blob/main/2.png)
 
