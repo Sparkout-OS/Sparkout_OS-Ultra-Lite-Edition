@@ -32,7 +32,7 @@ Sparkout OS Specification :
   * @ Restore Point Created Inside OS .Wim Files - For Easily Backup.         *New Features
   * Performance Optimized and 50 Bugs Fixed.
 
-No Softwares Were Pre - Installed In Sparkout OS.
+Basic Productivity & Utility Softwares Were Pre - Installed In Sparkout OS.
 
 # Images | Sparkout_OS-Ultra-Lite-Edition
 
