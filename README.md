@@ -8,7 +8,7 @@ Description [ Sparkout_OS ] :
   * It is a full pack AIO workstation Based OS.
   * All Essential Drivers are Pre Installed for Better Software Comparativity.
   
-For Password & OS Customization
+For Download & OS Customization
 contact - harzsecproducts@gmail.com
 
 
